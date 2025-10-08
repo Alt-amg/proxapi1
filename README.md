@@ -1,4 +1,5 @@
 # proxapi
+connect to proxmox api 
 code automatization proxmoxer
 from proxmoxer import ProxmoxAPI
 proxmox = ProxmoxAPI(
